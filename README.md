@@ -9,7 +9,7 @@ Super simple wallpaper fetcher and setter for Linux using [Unsplash Source](http
 - random
 
 ### Example
-`daily-wallpaper daily 1920x1080 mount everest`  
+`./daily-wallpaper daily 1920x1080 mount everest`  
 <br/>
 
 **Disclaimer:** This was a project to help me learn some Rust concepts. Let me know of all the rookie mistakes I made, so that I can learn! :D
