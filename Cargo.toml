@@ -1,0 +1,8 @@
+[package]
+name = "daily-wallpaper"
+version = "0.1.0"
+authors = ["Polloc <p0lloc@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+ureq = "2.1.1"
